@@ -3,3 +3,5 @@
 ## Un projet de test pour apprendre Git
 
 Ce projet est réalisé au sein d'une formation IFOCOP
+
+On crée un fichier et on le modifie.
